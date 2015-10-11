@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="System.out.println(&quot;Hello world I Love You!&quot;);  //print 1st line" key="selection"/>
+		<list key="findhistory">
+			<item value="System.out.println(&quot;Hello world I Love You!&quot;);  //print 1st line"/>
+		</list>
+	</section>
+</section>
